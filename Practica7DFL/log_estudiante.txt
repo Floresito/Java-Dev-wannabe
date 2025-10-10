@@ -1,0 +1,8 @@
+Operación exitosa para estudiante DF
+Error: Usuario no encontrado: 9999
+Error: Saldo insuficiente: $500.0
+Error: Saldo insuficiente: $500.0
+Error: Matrícula inválida: XYZ99
+Error: Matrícula inválida: XYZ99
+Error: Matrícula inválida: XYZ99
+Error: Matrícula inválida: XYZ99
