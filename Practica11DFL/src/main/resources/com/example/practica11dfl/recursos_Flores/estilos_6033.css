@@ -1,0 +1,26 @@
+.boton-31 {
+    -fx-background-color: #2196f3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 10 20;
+    -fx-border-radius: 5;
+}
+
+.boton-editar {
+    -fx-background-color: #f7c948;
+    -fx-text-fill: black;
+}
+
+.boton-eliminar {
+    -fx-background-color: #e12d39;
+    -fx-text-fill: white;
+}
+
+.table-view {
+    -fx-border-color: #ccc;
+    -fx-font-size: 14px;
+}
+
+.image-view{
+    -fx-effect: dropshadow(gaussian, gray, 10, 0.5, 0, 0);
+}
